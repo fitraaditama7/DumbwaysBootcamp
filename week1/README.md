@@ -1,0 +1,3 @@
+- [Install Ubuntu](https://github.com/fitraaditama7/DumbwaysBootcamp/tree/master/week1/VIRTUAL%20BOX%20-%20INSTALL%20UBUNTU)
+- [Setting Network](https://github.com/fitraaditama7/DumbwaysBootcamp/tree/master/week1/VIRTUAL%20BOX%20-%20SETTING%20NETWORK)
+- [Install Application](https://github.com/fitraaditama7/DumbwaysBootcamp/tree/master/week1/VIRTUAL%20BOX%20-%20INSTALL%20APPLICATION)
