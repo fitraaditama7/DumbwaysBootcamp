@@ -29,8 +29,8 @@
 ## Step 2 - Setup Virtual Machine
 - Setelah virtual machine dibuat, klik pada virtual machine dan klik **setting** pada tab
  ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week1/VIRTUAL%20BOX%20-%20INSTALL%20UBUNTU/img/7.png?raw=true)
- ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week1/VIRTUAL%20BOX%20-%20INSTALL%20UBUNTU/img/8.png?raw=true)
 - Lalu masuk ke tab storage dan klik icon **cd** yang ada disamping kanan **Controller: IDE**
+ ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week1/VIRTUAL%20BOX%20-%20INSTALL%20UBUNTU/img/8.png?raw=true)
  ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week1/VIRTUAL%20BOX%20-%20INSTALL%20UBUNTU/img/9.png?raw=true)
 - Klik **Add** untuk menambahkan image ubuntu lalu Klik tombol **Choose** dan klik **OK**
  ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week1/VIRTUAL%20BOX%20-%20INSTALL%20UBUNTU/img/10.png?raw=true)
