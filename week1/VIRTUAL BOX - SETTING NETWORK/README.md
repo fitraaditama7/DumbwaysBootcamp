@@ -43,7 +43,7 @@
 ```
     ifconfig
 ```
- ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week1/VIRTUAL%20BOX%20-%20SETTING%20NETWORK/img/7.png?raw=true)
+ ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week1/VIRTUAL%20BOX%20-%20SETTING%20NETWORK/img/12.png?raw=true)
 
 - jika sudah sesuai coba untuk masuk ke server dengan menggunakan remote server dengan command
 ```
