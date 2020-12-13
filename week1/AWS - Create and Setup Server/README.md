@@ -394,6 +394,7 @@ lalu masukan password dan informasi lainnya
 
 - sekarang kita akan setup nodejs caranya
 ```
+    sudo apt-get update
     curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
     sudo apt-get install -y nodejs
 ```
