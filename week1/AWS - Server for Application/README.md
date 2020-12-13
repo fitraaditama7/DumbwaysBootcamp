@@ -1,6 +1,7 @@
 # Server for Application
 
 ### Step 1 - Setup Project
+- Masuk ke private server
 - Clone repository github yang telah disediakan
 ```
     git clone https://github.com/DumbwaysDotId/DW15WDTPH_housy
