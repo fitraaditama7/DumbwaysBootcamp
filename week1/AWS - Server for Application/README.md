@@ -1,5 +1,23 @@
 # Server for Application
 
+### Step 1 - Setup Port
+- Masuk ke Dashboard EC2 lalu pilih menu Security Group
+
+ ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week1/AWS%20-%20Server%20for%20Application/img/8.png?raw=true)
+
+- Pilih User group yang digunakan untuk instance public dan private. Lalu Klik pada Security group ID
+
+ ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week1/AWS%20-%20Server%20for%20Application/img/9.png?raw=true)
+
+- Pada Inbound Rule klik tomvol Edit Inbound rules
+
+ ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week1/AWS%20-%20Server%20for%20Application/img/9.png?raw=true)
+
+- Klik Add Rules dan tambahkan Rules Seperti berikut
+
+ ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week1/AWS%20-%20Server%20for%20Application/img/10.png?raw=true)
+
+
 ### Step 1 - Setup Project
 - Masuk ke private server
 - Clone repository github yang telah disediakan
