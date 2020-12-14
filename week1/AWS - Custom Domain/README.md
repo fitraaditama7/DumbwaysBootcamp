@@ -24,7 +24,7 @@ lalu ubah `server_name` menjadi nama dari custom domain yang telah dibuat dan sa
     sudo systemctl restart nginx
  ```
 
-- Jika sudah buka browser dan arahkan ke custom domain yang telah dibuat
+- Jika sudah buka browser dan arahkan ke custom domain yang telah dibuat. hasilnya adalah sebagai berikut
  ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week1/AWS%20-%20Custom%20Domain/img/8.png?raw=true)
 
 
