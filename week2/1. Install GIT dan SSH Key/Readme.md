@@ -7,7 +7,7 @@
     git config --global user.email johndoe@example.com
 ```
 
- ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week1/1.%20Install%20GIT%20dan%20SSH/img/25.png?raw=true)
+ ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week2/1.%20Install%20GIT%20dan%20SSH/img/25.png?raw=true)
 
 
 ### Step 2 - Setup SSH 
@@ -18,25 +18,25 @@
 
 ```
  
- ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week1/1.%20Install%20GIT%20dan%20SSH/img/26.png?raw=true)
+ ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week2/1.%20Install%20GIT%20dan%20SSH/img/26.png?raw=true)
 
 ### Step 3 - Setup GITHUB and SSH
 - Login ke https://github.com/
 - Lalu masuk ke menu **Settings** yang ada pada menu sebelah kanan 
 
- ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week1/1.%20Install%20GIT%20dan%20SSH/img/11.png?raw=true)
+ ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week2/1.%20Install%20GIT%20dan%20SSH/img/11.png?raw=true)
 
 
 - Setelah itu pilih menu SSH and GPG keys lalu klik **New SSH Key**
 
- ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week1/1.%20Install%20GIT%20dan%20SSH/img/13.png?raw=true)
+ ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week2/1.%20Install%20GIT%20dan%20SSH/img/13.png?raw=true)
 
 
 - Masukan Title dan SSH yang baru dibuat sebelumnya lalu klik tombol **Add SSH Key**
 
- ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week1/1.%20Install%20GIT%20dan%20SSH/img/14.png?raw=true)
+ ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week2/1.%20Install%20GIT%20dan%20SSH/img/14.png?raw=true)
 
- ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week1/1.%20Install%20GIT%20dan%20SSH/img/15.png?raw=true)
+ ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week2/1.%20Install%20GIT%20dan%20SSH/img/15.png?raw=true)
 
 
 ### Step 4 - Check
