@@ -3,11 +3,11 @@
 ### Step 1 - Create Servers
 - Pada AWS buat 2 Server Frontend dengan subnet private dan security group yang sama
 
- ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week2/6.%20Load%20Balancing%20Frontend/img/1.png?raw=true)
- ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week2/6.%20Load%20Balancing%20Frontend/img/2.png?raw=true)
+ ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week2/7.%20Load%20Balancing%20Frontend/img/1.png?raw=true)
+ ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week2/7.%20Load%20Balancing%20Frontend/img/2.png?raw=true)
 
 ### Step 2 - Setup Project
-- Masuk ke private server
+- Masuk ke private server Frontend-1 dan Frontend-2
 - Clone repository github yang telah disediakan
 ```
     git clone https://github.com/DumbwaysDotId/DW15WDTPH_housy
@@ -45,5 +45,3 @@
 ```
     pm2 start
 ```
-
-- Ulangi Langkah 2 dan 3 pada server yang yang lain
