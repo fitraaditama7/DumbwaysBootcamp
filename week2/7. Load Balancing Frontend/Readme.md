@@ -70,3 +70,8 @@ server {
 ```
     sudo service nginx restart
 ```
+
+- Buat ulang SSL yang telah dibuat
+```
+    sudo certbot --nginx
+```
