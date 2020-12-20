@@ -45,3 +45,11 @@ tambahkan folder yang tadi dibuat didalam file konfigurasi utama nginx
     include /etc/nginx/backend/*;
 ```
  ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week2/4.%20Reverse%20Proxy%20Backend/img/3.png?raw=true)
+
+- Restart nginx
+```
+    sudo service nginx restart
+```
+
+- Jika di cek menggunakan postman maka hasilnya adalah sebagai berikut
+ ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week2/4.%20Reverse%20Proxy%20Backend/img/4.png?raw=true)
