@@ -39,7 +39,7 @@
     sudo mysql -u root
 ```
 
- ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week2/2.%20Setup%20Database/img/101.png?raw=true)
+ ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week2/2.%20Setup%20Database/img/106.png?raw=true)
 
 
  - Buat user baru pada mysql.
