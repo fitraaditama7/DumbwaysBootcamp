@@ -45,7 +45,7 @@
     ssh -T git@github.com
 ```
 
- ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week2/AWS%20-%20Create%20and%20Setup%20Server/img/24.png?raw=true)
+ ![alt text](https://github.com/fitraaditama7/DumbwaysBootcamp/blob/master/week2/1.%20Install%20GIT%20dan%20SSH%20Key/img/24.png?raw=true)
 
 
 
