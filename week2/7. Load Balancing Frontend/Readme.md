@@ -45,3 +45,28 @@
 ```
     pm2 start
 ```
+
+### Step 4 - Setup Load Balancer
+- Kembali ke server public. Lalu edit folder frontend `etc/nginx/nama_folder/nama_file.conf` dan ubah `nama_file.conf` jadi seperti ini
+```
+upstream frontend {
+      server 10.0.1.228:3000; # IP Server Frontend-1
+      server 10.0.1.182:3000; # IP Server Frontend-2
+}
+
+server {
+        listen 80;
+        listen [::]:80;
+
+        server_name fitra.instructype.com;
+
+        location / {
+                http://frontend; # Ubah menjadi upstream frontend
+        }
+}
+```
+
+- Lalu Restart NGINX
+```
+    sudo service nginx restart
+```
